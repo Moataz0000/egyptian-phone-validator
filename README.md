@@ -1,6 +1,6 @@
 # Egyptian Phone Validator
 
-A Django package to validate Egyptian phone numbers.
+A Django package to validate Egyptian phone numbers. 
 
 
 ## Features
@@ -37,3 +37,10 @@ class UserProfile(models.Model):
         help_text="Enter a valid Egyptian phone number (e.g., 01012345678)."
     )
 ```
+
+
+## PyPI Package
+
+You can find the `egyptian-phone-validator` package on PyPI. Click the link below to visit the project page:
+
+[![PyPI Version](https://img.shields.io/pypi/v/egyptian-phone-validator?color=blue&label=PyPI%20Package)](https://pypi.org/project/egyptian-phone-validator/)
